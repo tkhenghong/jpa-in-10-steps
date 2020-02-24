@@ -1,4 +1,4 @@
-package com.in28minutes.learning.jpa.jpain10steps.entityService;
+package com.in28minutes.learning.jpa.jpain10steps.service;
 
 import com.in28minutes.learning.jpa.jpain10steps.entity.User;
 import org.springframework.stereotype.Repository;
